@@ -1,0 +1,38 @@
+{
+  "id": "/homehub/",
+  "name": "Home Hub",
+  "short_name": "Home Hub",
+  "description": "Home Hub by Marvel Corp - know your home, fix it, improve it, protect it. Every room and outdoor space with its items, maintenance tasks and notes in one place. Works with Day Hub, Cruise Hub and Trip Hub. No ads, ever.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e3a6e",
+  "theme_color": "#0e3a6e",
+  "categories": [
+    "lifestyle",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
